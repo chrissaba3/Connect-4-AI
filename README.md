@@ -18,5 +18,5 @@ but all columns can detect wins vertically, and B-G rows can detect both.
 With this in mind I made it so the bot will prefer spots in the middle, away from the top and bottom rows. 
 This does not completely ruin the game, as most games are played around the center as they have a larger advantage of winning.
 
--The best move is much different than what is actually chosen to be played.
- The computer will try to win on the G row, but not try to block off a player potential win, and sometimes misses its own win.
+- The best move is much different than what is actually chosen to be played.
+The computer will try to win on the G row, but not try to block off a player potential win, and sometimes misses its own win.
